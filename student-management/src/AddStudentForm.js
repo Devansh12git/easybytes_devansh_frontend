@@ -78,7 +78,7 @@ function AddStudentForm() {
           required
         />
       </label>
-      <button type="submit">Add Student</button>
+      <button type="submit">Add Student Form</button>
     </form>
   );
 }
